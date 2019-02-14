@@ -1,5 +1,5 @@
-# nuxt-helper-json
-Information to enhance [Vetur](https://github.com/vuejs/vetur)'s auto completion.
+# gridsome-helper-json
+Information to enhance [Vetur](https://github.com/vuejs/vetur)'s auto completion for [Gridsome](https://github.com/gridsome/gridsome).
 
 ## License
 MIT
