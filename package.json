@@ -1,0 +1,24 @@
+{
+  "name": "gridsome-helper-json",
+  "version": "0.0.0",
+  "repository": "git@github.com:tyankatsu0105/gridsome-helper-json.git",
+  "author": "tyankatsu <frips.ryilsufupe+dev@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/tyankatsu0105/gridsome-helper-json/issues"
+  },
+  "homepage": "https://github.com/tyankatsu0105/gridsome-helper-json#readme",
+  "license": "MIT",
+  "keywords": [
+    "gridsome",
+    "vue",
+    "vetur"
+  ],
+  "private": false,
+  "files": [
+    "tags.json",
+    "attributes.json"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
