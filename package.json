@@ -15,8 +15,8 @@
   ],
   "private": false,
   "files": [
-    "tags.json",
-    "attributes.json"
+    "gtidsome-tags.json",
+    "gtidsome-attributes.json"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

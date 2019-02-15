@@ -1,0 +1,20 @@
+{
+  "g-link": {
+    "attributes": ["to", "replace", "append", "tag", "active-class", "exact", "event", "exact-active-class"],
+    "description": "Component for routing. Same as <router-link> now."
+  },
+  "g-image": {
+    "attributes": ["src", "width", "height", "alt", "fit", "background", "immediate", "blur", "quality", "cover", "contain", "fill", "inside", "outside"],
+    "description": "description for <g-image>"
+  },
+  "Pager": {
+    "attributes": ["Property", "info", "showLinks", "showNavigation", "linkClass", "firstLabel", "prevLabel", "nextLabel", "lastLabel", "ariaLabel", "ariaLinkLabel", "ariaFirstLabel", "ariaCurrentLabel", "ariaPrevLabel", "ariaNextLabel", "ariaLastLabel"],
+    "description": "description for <Pager>"
+  },
+  "page-query": {
+    "description": "Component for query fetched data into any Page, Template."
+  },
+  "static-query": {
+    "description": "Component for query fetched data into any Component."
+  }
+}
