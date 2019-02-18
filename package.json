@@ -18,7 +18,7 @@
   ],
   "repository": "git@github.com:tyankatsu0105/gridsome-helper-json.git",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo 'Skip test'",
     "format": "fixpack",
     "lint-staged": "lint-staged",
     "precommit": "run-s format lint-staged",
