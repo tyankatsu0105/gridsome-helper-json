@@ -1,3 +1,9 @@
+#### 0.1.1 (2019-02-18)
+
+##### Refactors
+
+*  Refactor test script command ([1d0bcce6](https://github.com/tyankatsu0105/gridsome-helper-json/commit/1d0bcce68457b64801c8cee3b022059794476ad4))
+
 ### 0.1.0 (2019-02-18)
 
 ##### Build System / Dependencies
