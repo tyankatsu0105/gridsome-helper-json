@@ -1,3 +1,9 @@
+#### 0.1.2 (2019-02-18)
+
+##### Bug Fixes
+
+*  Rename file ([6b5cde83](https://github.com/tyankatsu0105/gridsome-helper-json/commit/6b5cde835322e63df808f8fa5c605986f5e0ec0f))
+
 #### 0.1.1 (2019-02-18)
 
 ##### Refactors
