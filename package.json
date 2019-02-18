@@ -13,8 +13,8 @@
   "license": "MIT",
   "author": "tyankatsu <frips.ryilsufupe+dev@gmail.com>",
   "files": [
-    "gtidsome-attributes.json",
-    "gtidsome-tags.json"
+    "gridsome-attributes.json",
+    "gridsome-tags.json"
   ],
   "repository": "git@github.com:tyankatsu0105/gridsome-helper-json.git",
   "scripts": {
