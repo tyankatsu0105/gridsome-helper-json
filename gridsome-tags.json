@@ -53,11 +53,5 @@
     ],
     "defaults": [":info"],
     "description": "description for <Pager>"
-  },
-  "page-query": {
-    "description": "Component for query fetched data into any Page, Template."
-  },
-  "static-query": {
-    "description": "Component for query fetched data into any Component."
   }
 }
