@@ -1,3 +1,9 @@
+## 1.0.0 (2019-02-19)
+
+##### Refactors
+
+*  Remove page-query and static-query in tags.json ([d72408ac](https://github.com/tyankatsu0105/gridsome-helper-json/commit/d72408ac0c2e6e6f5161d9620438aba967c3f2bd))
+
 #### 0.1.2 (2019-02-18)
 
 ##### Bug Fixes
